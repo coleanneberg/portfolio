@@ -1,0 +1,22 @@
+h4 {
+  font-weight: bold;
+  color: teal;
+}
+img {
+  float: right;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+em {
+  color: grey;
+}
+.list li {
+  font-weight: bold;
+}
+.list p {
+  font-style: italic;
+  color: grey;
+}
+.highlight {
+  color: silver;
+}
