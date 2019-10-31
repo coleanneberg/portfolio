@@ -18,5 +18,10 @@ em {
   color: grey;
 }
 .highlight {
-  color: silver;
+  text-decoration: underline;
+}
+
+.intro {
+  color: black;
+  font-style: normal;
 }
