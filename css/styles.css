@@ -48,3 +48,17 @@ em {
   margin-bottom: 25px;
   text-align: center;
 }
+.sidebar {
+  width: 40%;
+  float: right;
+  background-color: lightblue;
+  Margin-left: 25px;
+  Padding: 15px;
+  border: 1px solid teal;
+}
+.sidebar h2 {
+  font-size: 20px;
+}
+.sidebar p {
+  color: white;
+}
