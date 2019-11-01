@@ -25,4 +25,4 @@ If there are questions about the file, please email Cole Anneberg at cole-anne-b
 * Bootstrap
 
 ### License
-No license for this portfolio. ** Cole Anneberg **
+No license for this portfolio. Cole Anneberg
