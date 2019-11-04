@@ -4,8 +4,7 @@ h4 {
 }
 img {
   float: right;
-  padding-left: 15px;
-  padding-bottom: 15px;
+  padding:15px;
 }
 em {
   color: grey;
@@ -23,12 +22,14 @@ em {
 .intro {
   color: black;
   font-style: normal;
+  font-size: 18px;
 }
 .my-class {
   border: 1px solid teal;
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  padding-right: 10px;
   font-style: italic;
   background-color: lightblue;
   width: 49%;
@@ -41,6 +42,7 @@ em {
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  padding-right: 10px;
   font-style: italic;
   background-color: lightgrey;
   width: 49%;
