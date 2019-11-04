@@ -9,7 +9,7 @@ I made this portfolio for my Git, HTML and CSS independent project for Week 3 of
 
 ## Setup/Installation Requirements
 
-* Clone the portfolio repository
+* Clone the portfolio repository from
 * Open files from your monitor's desktop
 * Review and edit file as needed
 
@@ -23,6 +23,9 @@ If there are questions about the file, please email Cole Anneberg at cole-anne-b
 * HTML
 * CSS
 * Bootstrap
+
+## GitHub page
+https://coleanneberg.github.io/portfolio/
 
 ### License
 No license for this portfolio. Cole Anneberg
