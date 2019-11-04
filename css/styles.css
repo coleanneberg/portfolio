@@ -25,7 +25,7 @@ em {
   font-size: 18px;
 }
 .my-class {
-  border: 1px solid teal;
+  border: 2px solid teal;
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -38,7 +38,7 @@ em {
   text-align: center;
 }
 .my-class-2 {
-  border: 1px solid teal;
+  border: 2px solid teal;
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -56,7 +56,7 @@ em {
   background-color: lightblue;
   Margin-left: 25px;
   Padding: 15px;
-  border: 1px solid teal;
+  border: 2px solid teal;
 }
 .sidebar h2 {
   font-size: 20px;
